@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1095786804552",
+    "project_id": "still-cipher-307817",
+    "storage_bucket": "still-cipher-307817.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095786804552:android:7ec3a0a0b5e1f1a7d16f7d",
+        "android_client_info": {
+          "package_name": "edu.itesm.pokedex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095786804552-c4v9lqfvhb9qqtagrkrhl90on652v52k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi5GRirBAIcnOpKTqU8vMAP61lKRQIyrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095786804552-c4v9lqfvhb9qqtagrkrhl90on652v52k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
